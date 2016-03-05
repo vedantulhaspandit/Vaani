@@ -6,7 +6,7 @@ Apple Inc.’s Siri for the iOS operating system and Microsoft Corporation’s C
 for the Windows Phone operating system has increased to a great extent.
 However, such virtual personal assistants have not been available in any Indian languages.
 
-So vyastech presents Vaani, Siri's (wannabe) friend who speaks Hindi. She uses the 
+So I presents Vaani, Siri's (wannabe) friend who speaks Hindi. She uses the 
 <code>android.speech</code> package to listen to simple Hindi instructions and to
 speak in Hindi. 
 
